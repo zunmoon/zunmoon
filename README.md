@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sungmoon Kim
+# 👋 Hi, I'm Seongmoon Kim
 
 ### 💻 Software Developer | Smart Factory & Vision System Engineer
 
@@ -18,7 +18,7 @@ C#, Java, SQL을 기반으로 한 산업용 소프트웨어 및 웹 서비스 �
 
 **Other Skills**  
 `Socket Communication` `Serial Communication` `Image Processing`  
-`Git` `Notion` `Jira`
+`Git` `Notion`
 
 ---
 
@@ -60,7 +60,7 @@ _Project-based Java Fintech Web Developer Course_
 - **Backend**: Java, Spring Boot, MariaDB, WebSocket  
 - 주요 기능: 1:1 실시간 채팅, 사용자/관리자 모드, 반려견 프로필 관리  
 - 담당 역할: 기술지원 / DB 설계 / 채팅 기능 구현 / 관리자 모드 개발  
-- 🔗 [프로젝트 문서 보기](#) (PDF 업로드 예정)
+- 🔗 [프로젝트 문서 보기](#) ()
 
 ---
 
