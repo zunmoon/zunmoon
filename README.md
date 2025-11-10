@@ -60,7 +60,7 @@ _Project-based Java Fintech Web Developer Course_
 - **Backend**: Java, Spring Boot, MariaDB, WebSocket  
 - 주요 기능: 1:1 실시간 채팅, 사용자/관리자 모드, 반려견 프로필 관리  
 - 담당 역할: 기술지원 / DB 설계 / 채팅 기능 구현 / 관리자 모드 개발  
-- 🔗 [프로젝트 문서 보기](#) ()
+- 🔗 [프로젝트 문서 보기](https://github.com/zunmoon/Tindog/blob/master/Tindog_Project.pptx)
 
 ---
 
