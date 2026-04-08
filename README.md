@@ -96,7 +96,7 @@ _Project-based Java Fintech Web Developer Course_
 - log4net / NLog 기반 **운영 로그 관리**  
 
 **담당 역할**  
-SWIR 카메라 시스템 연동, PLC 통신 구현, AI 추론 모듈(DeepCulus) 통합
+전체 시스템 설계 및 단독 개발 — SWIR 카메라 시스템 연동, PLC 통신 구현, AI 모델 결과 출력
 
 ---
 
